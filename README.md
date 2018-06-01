@@ -1,4 +1,4 @@
-# git-assignment
+# Git Basics
 
 This repository will help you get comfortable with basic git operations: making changes and publishing them.
 
