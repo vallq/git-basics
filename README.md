@@ -7,6 +7,7 @@ We will learn the following git operations:
 - `add` changes to the staging area
 - `commit` changes
 - `push` local commits to publish them to GitHub
+- `pull` changes from the remote repository
 
 Other useful commands to see what is going on the git repository:
 
