@@ -16,6 +16,7 @@ Other useful commands to see what is going on the git repository:
 
 ## Exercises
 
+- [ ] Fork this repo
 - [ ] Clone this repo
 - [ ] Update the README: add some lines to the end and push them to GitHub
 - [ ] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
