@@ -16,9 +16,9 @@ Other useful commands to see what is going on the git repository:
 
 ## Exercises
 
-- [ ] Fork this repo
-- [ ] Clone this repo
-- [ ] Update the README: add some lines to the end and push them to GitHub
+- [x] Fork this repo
+- [x] Clone this repo
+- [x] Update the README: add some lines to the end and push them to GitHub
 - [ ] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
 - [ ] Update newfile.txt and push the changes to GitHub
 - [ ] Open the repository on GitHub and make changes to `newfile.txt`
@@ -27,3 +27,7 @@ Other useful commands to see what is going on the git repository:
 ## Discuss
 
 What is the difference between `add`, `commit`, and `push`?
+
+Add: updates changes in the queue
+Commit: confirm the changes being made in the queue
+Push: updating the remote git repository with the local changes made
